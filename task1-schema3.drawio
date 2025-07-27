@@ -19,7 +19,7 @@
         <mxCell id="Wyuv7-V218p3gV73d0Rg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Wyuv7-V218p3gV73d0Rg-2" target="zA23MoTUsTF4_91t8viU-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wyuv7-V218p3gV73d0Rg-2" value="Website" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Wyuv7-V218p3gV73d0Rg-2" value="Webapp" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="417" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B8RiStl7gw0MYB1L8w9P-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Wyuv7-V218p3gV73d0Rg-4" target="B8RiStl7gw0MYB1L8w9P-1" edge="1">
@@ -81,7 +81,7 @@
         <mxCell id="B8RiStl7gw0MYB1L8w9P-1" value="configSrv" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oEDTv7XUHvF0o1sKad8U-1" value="Redis&lt;br&gt;cache" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oEDTv7XUHvF0o1sKad8U-1" value="Redis&lt;br&gt;cache" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="560" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
