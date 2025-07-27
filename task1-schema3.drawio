@@ -73,16 +73,16 @@
         <mxCell id="Wyuv7-V218p3gV73d0Rg-14" value="MongoDB&lt;br&gt;shard2-2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="872" y="547" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5xZt7BtLFbIKCLRPUeMT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="zA23MoTUsTF4_91t8viU-3" target="5xZt7BtLFbIKCLRPUeMT-6" edge="1">
+        <mxCell id="5xZt7BtLFbIKCLRPUeMT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zA23MoTUsTF4_91t8viU-3" target="oEDTv7XUHvF0o1sKad8U-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="429.9949999999999" y="587.02" as="targetPoint" />
+            <mxPoint x="430" y="557" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="5xZt7BtLFbIKCLRPUeMT-6" value="Redis&lt;br&gt;cache" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="400" y="557" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B8RiStl7gw0MYB1L8w9P-1" value="configSrv" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oEDTv7XUHvF0o1sKad8U-1" value="Redis&lt;br&gt;cache" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="560" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
